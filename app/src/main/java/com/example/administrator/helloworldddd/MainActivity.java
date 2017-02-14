@@ -2,7 +2,7 @@ package com.example.administrator.helloworldddd;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//新项目
 public class MainActivity extends AppCompatActivity {
 
     @Override
